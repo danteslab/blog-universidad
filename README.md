@@ -3,4 +3,7 @@ Es un proyecto dedicado al crecimiento de comunidad universitaria a travéz de u
 
 ## Instalación
 
-## Licecia
+## Licencia
+
+## Agradecimientos
+
